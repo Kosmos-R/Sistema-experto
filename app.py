@@ -90,7 +90,7 @@ def main():
         else:
             st.info(f"**{diagnostico}**\n\n{recomendacion}")
             
-    st.caption("Nota: Este sistema experto tiene fines estrictamente académicos (Laboratorio de IA) y no reemplaza el diagnóstico de un profesional de la salud.")
+    st.caption("")
 
 if __name__ == "__main__":
     main()
